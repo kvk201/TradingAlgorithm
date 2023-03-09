@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "missing": "^0.0.1"
+    "missing": "^0.0.1",
+    "numpy": "^0.0.1",
+    "robinhood": "^1.8.0",
+    "ta": "^0.0.0"
   }
 }
