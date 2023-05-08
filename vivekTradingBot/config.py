@@ -1,6 +1,6 @@
 #Enter robinhood user-name and password:
-username="vk2.vivek.007@gmail.com"
-password="^!((!#$$!)Messi!10"
+username=""
+password=""
 
 # to show plot
 plot=True
