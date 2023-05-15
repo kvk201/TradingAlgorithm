@@ -24,3 +24,7 @@ numpy
 use config.py file for username and password
 
 # This algorithm/software (python based) will have a combination of two algorithms (one conservative, one aggressive) to reduce  risk and increase profit compared to the traditional buy and hold strategy for blue chip stocks as well as Automated Investing and Switching based on parameters and conditions(data science involved). Additionally, there is Machine Learning based Calibration and heavy Backtesting to validate the algorithm.
+
+# flow
+1. scanandexecute is the entry point
+2. 
