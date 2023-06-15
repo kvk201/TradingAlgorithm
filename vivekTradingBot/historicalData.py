@@ -15,3 +15,5 @@ def get_historical_data(ticker, intervalArg, spanArg, boundsArg):
     return history
 
 
+
+
